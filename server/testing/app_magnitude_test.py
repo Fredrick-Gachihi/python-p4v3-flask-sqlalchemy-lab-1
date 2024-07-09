@@ -53,3 +53,4 @@ class TestApp:
 
         # confirm status
         assert response.status_code == 200
+
